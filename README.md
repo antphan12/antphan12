@@ -4,7 +4,7 @@ Hi! My name is Anthony Phan
 Software Engineering Student @ Iowa State University | Part-time Telecom Engineer @ MidAmerican Energy Company
 ---------------------------------------------------------------------------------------------------
 
-Hi! I'm Anthony Phan, Software Engineering student at Iowa State University. I’m focused on building a career that merges my technical expertise with my enthusiasm for problem-solving. With a solid foundation in AWS, Java, JavaScript, CSS, C, HTML, and other languages. I’ve honed my skills through hands-on projects which I am eager to take on with the challenges ahead. I am currently working as a part-time telecommunications engineer at MidAmerican Energy Company while I am a student this Fall at Iowa State University.
+I'm a Software Engineering student at Iowa State University. I’m focused on building a career that merges my technical expertise with my enthusiasm for problem-solving. With a solid foundation in AWS, Java, JavaScript, CSS, C, HTML, and other languages. I’ve honed my skills through hands-on projects which I am eager to take on with the challenges ahead. I am currently working as a part-time telecommunications engineer at MidAmerican Energy Company while I am a student this Fall at Iowa State University.
 
 My academic journey, set to culminate with a degree in May 2026, has been complemented by leadership roles in student organizations such as the Vietnamese Student Association and the Asian Student Union. These experiences have not only enhanced my technical abilities but also developed my leadership, communication, and teamwork skills.
 
