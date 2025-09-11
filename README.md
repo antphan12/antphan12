@@ -13,7 +13,7 @@ Bilingual in Vietnamese and English, I’m leveraging my diverse background and 
 * 🌍  I'm based in Ames, Iowa
 * 🖥️  See my portfolio at [Ant-Phan Portfolio](http://ant-phan.com)
 * ✉️  You can contact me at [antphan12@gmail.com](mailto:antphan12@gmail.com)
-* 🚀  I'm currently working on an app called [KoraKora](http://korakora.space)
+* 🚀  I'm currently working on an application called [KoraKora](http://korakora.space)
 * 🧠  I'm currently learning C#, Obtaining my AI Practitioner Certification, and Cloud Security
 
 <p align="left">
